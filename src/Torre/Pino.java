@@ -16,7 +16,7 @@ public class Pino {
 			aux--;	
 		}
 	}
-	
+	//inserir
 	public void insere(int a) {	
 		int torreAux[]=new int[toppo];	//Cria um vetor auxiliar 
 		for(int k=0; k<toppo; k++) {
